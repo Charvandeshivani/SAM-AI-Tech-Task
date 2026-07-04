@@ -166,43 +166,6 @@ The cleaned dataset was imported into Power BI to create an interactive dashboar
 
 ---
 
-# 📷 Project Screenshots
-
-Add screenshots of:
-
-- Python Output
-- Charts
-- Power BI Dashboard
-
-inside the **images** folder.
-
----
-
-# 🚀 How to Run the Project
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/Zomato-Restaurant-Analysis.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Python Files
-
-```bash
-python task1.py
-python task2.py
-python task3.py
-python task4.py
-python task5.py
-```
-
----
 
 # 📌 Skills Demonstrated
 
@@ -219,10 +182,8 @@ python task5.py
 
 # 👩‍💻 Author
 
-**Rutuja**
+shivani
 
 Data Analyst Intern at **SAMAI Technologies**
 
----
-
-⭐ If you found this project helpful, consider giving it a star!
+----
